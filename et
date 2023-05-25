@@ -1,0 +1,21 @@
+[33m9b1fcbc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to 9b1fcbc
+[33m9b1fcbc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{1}: reset: moving to 9b1fcbc
+[33mdb0d989[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{2}: commit (merge): fusion
+[33maf09969[m HEAD@{3}: checkout: moving from WorldA to master
+[33m9bdfe3b[m[33m ([m[1;31morigin/WorldA[m[33m, [m[1;32mWorldA[m[33m)[m HEAD@{4}: commit: change to A+
+[33m09d3f25[m HEAD@{5}: checkout: moving from master to WorldA
+[33maf09969[m HEAD@{6}: commit (merge): correction master + B
+[33m9b1fcbc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{7}: commit: Change Master + B
+[33me335b11[m[33m ([m[1;31morigin/WorldB[m[33m, [m[1;32mWorldB[m[33m)[m HEAD@{8}: merge WorldB: Fast-forward
+[33m6ab2662[m HEAD@{9}: checkout: moving from master to master
+[33m6ab2662[m HEAD@{10}: checkout: moving from WorldB to master
+[33me335b11[m[33m ([m[1;31morigin/WorldB[m[33m, [m[1;32mWorldB[m[33m)[m HEAD@{11}: commit: Change display to World B
+[33m6ab2662[m HEAD@{12}: checkout: moving from master to WorldB
+[33m6ab2662[m HEAD@{13}: checkout: moving from WorldA to master
+[33m09d3f25[m HEAD@{14}: checkout: moving from master to WorldA
+[33m6ab2662[m HEAD@{15}: checkout: moving from WorldA to master
+[33m09d3f25[m HEAD@{16}: commit: change display pour WorldA
+[33m6ab2662[m HEAD@{17}: checkout: moving from master to WorldA
+[33m6ab2662[m HEAD@{18}: commit: add hallo world master
+[33m54cfe69[m HEAD@{19}: commit: first commit
+[33m16c5db3[m HEAD@{20}: initial pull

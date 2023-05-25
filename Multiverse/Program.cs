@@ -6,11 +6,9 @@ namespace Multiverse
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
-            Console.WriteLine("Hello World Master + B!");
-=======
-            Console.WriteLine("Hello World A+!");
->>>>>>> WorldA
+
+            Console.WriteLine("Hello World Master + A+ + B!");
+
         }
     }
 }
